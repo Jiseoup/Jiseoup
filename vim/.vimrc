@@ -10,5 +10,6 @@ set smartindent
 set cindent
 set autoindent
 set smarttab
+set expandtab
 set ruler
 set mouse=a
