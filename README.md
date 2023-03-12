@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&theme=dracula&layout=compact&langs_count=6"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&exclude_repo=Jiseoup.github.io&theme=dracula&layout=compact&langs_count=6"/>
   
   ### 🐸 Jiseoup Lim 🐸
   ---
