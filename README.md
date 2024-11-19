@@ -7,7 +7,6 @@
 
   <a href="https://github.com/devxb/gitanimals">
   <img
-    align="center"
     src="https://render.gitanimals.org/farms/Jiseoup"
     width="600"
     height="300"
