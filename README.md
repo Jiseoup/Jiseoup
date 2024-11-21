@@ -13,8 +13,8 @@
   />
   </a>
 
-  ![Jiseoup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseoup&count_private=true&show_icons=true&theme=onedark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&theme=onedark)
+  [![Jiseoup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseoup&count_private=true&show_icons=true&theme=onedark)](https://github.com/Jiseoup/github-readme-stats)
+  [![Jiseoup Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&theme=onedark)](https://github.com/Jiseoup/github-readme-stats)
   
   <br>
 </div>
