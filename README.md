@@ -1,4 +1,20 @@
-<div align="center">
+<div>
+  <h1 align="center">⚠️ Under Construction</h1>
+
+  <div align="center">
+    <a href="https://github.com/devxb/gitanimals">
+      <img
+        src="https://render.gitanimals.org/farms/Jiseoup"
+        width="600"
+        height="300"
+      />
+    </a>
+  </div>
+</div>
+
+
+
+<!-- <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&exclude_repo=Jiseoup.github.io&theme=dracula&layout=compact&langs_count=6"/>
   
   ### 🐸 Jiseoup Lim 🐸
@@ -13,8 +29,12 @@
   />
   </a>
 
-  [![Jiseoup's GitHub stats](https://github-readme-stats-devpro-app.vercel.app/api?username=Jiseoup&count_private=true&show_icons=true&theme=onedark)](https://github.com/Jiseoup/github-readme-stats)
-  [![Jiseoup Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&theme=onedark)](https://github.com/Jiseoup/github-readme-stats)
+  <img align="right" src="https://github-readme-stats-devpro-app.vercel.app/api/top-langs/?username=Jiseoup&count_private=true&exclude_repo=Jiseoup.github.io&theme=dracula&layout=compact&langs_count=6"/>
+
+  <img align="right" src="https://github-readme-stats-devpro-app.vercel.app/api?username=Jiseoup&count_private=true&show_icons=true&theme=onedark"/>
   
   <br>
 </div>
+
+[![Jiseoup's GitHub stats](https://github-readme-stats-devpro-app.vercel.app/api?username=Jiseoup&count_private=true&show_icons=true&theme=onedark)](https://github.com/Jiseoup/github-readme-stats)
+[![Jiseoup Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&theme=onedark)](https://github.com/Jiseoup/github-readme-stats) -->
