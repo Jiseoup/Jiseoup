@@ -12,6 +12,9 @@
     height="300"
   />
   </a>
+
+  ![Jiseoup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiseoup&count_private=true&show_icons=true&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiseoup&theme=onedark)
   
   <br>
 </div>
