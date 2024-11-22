@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
 <div>
-  <h1 align="center">⚠️ Under Construction</h1>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFA883&height=300&section=header&text=⚠️%20Under%20Construction&fontSize=60" />
 
   <div align="center">
     <a href="https://github.com/devxb/gitanimals">
