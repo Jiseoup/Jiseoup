@@ -11,6 +11,8 @@
     </a>
   </div>
 
+  <img src="./profile-3d-contrib/profile-season-animate.svg" />
+
   <a>
     <!-- <img
       src="https://github-readme-stats-devpro-app.vercel.app/api?username=Jiseoup&theme=onedark&show_icons=true&count_private=true"
