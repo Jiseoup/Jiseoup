@@ -25,11 +25,6 @@
   <div align="center">
     <h1>📌 GitHub Stats</h1>
     <img src="./profile-3d-contrib/profile-season-animate.svg" />
-    <br/>
-    <br/>
-    <a href="https://github.com/Jiseoup/">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Jiseoup&theme=flat&margin-w=5" />
-    </a>
   </div>
 
   <br/>
