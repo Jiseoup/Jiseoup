@@ -28,7 +28,7 @@
     <br/>
     <br/>
     <a href="https://github.com/Jiseoup/">
-      <img src="https://github-profile-trophy.vercel.app/?username=Jiseoup&theme=onedark" alt="GitHub Trophies" />
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Jiseoup&theme=flat&margin-w=5" />
     </a>
   </div>
 
