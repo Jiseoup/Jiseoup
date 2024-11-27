@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <h2>🚀 Core Technologies</h2>
+    <h1>🚀 Core Technologies</h1>
     <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat">
       <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat">
@@ -23,7 +23,7 @@
   <br/>
 
   <div align="center">
-    <h2>💡 GitHub Stats</h2>
+    <h1>📌 GitHub Stats</h1>
     <img src="./profile-3d-contrib/profile-season-animate.svg" />
     <br/>
     <br/>
@@ -35,7 +35,7 @@
   <br/>
 
   <div align="center">
-    <h2>🏡 My Farm</h2>
+    <h1>🏡 My Farm</h1>
     <a href="https://github.com/Jiseoup/">
       <img
         src="https://render.gitanimals.org/farms/Jiseoup"
