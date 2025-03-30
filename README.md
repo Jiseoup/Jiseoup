@@ -33,7 +33,7 @@
   <br/>
 
   <div align="center">
-    <h1>📌 GitHub Stats</h1>
+    <h1>🎯 Contributions</h1>
     <img src="./profile-3d-contrib/profile-season-animate.svg" />
   </div>
 
