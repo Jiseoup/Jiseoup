@@ -19,6 +19,7 @@
       <br/>
       <img alt="Static Badge" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white&style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge">
       <br/>
