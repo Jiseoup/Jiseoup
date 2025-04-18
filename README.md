@@ -33,12 +33,14 @@
 
   <br/>
 
+<!--
   <div align="center">
     <h1>🎯 Contributions</h1>
     <img src="./profile-3d-contrib/profile-season-animate.svg" />
   </div>
 
   <br/>
+-->
 
   <div align="center">
     <h1>🏡 My Farm</h1>
