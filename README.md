@@ -4,8 +4,8 @@
     <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white&style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge">
       <br/>
       <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
@@ -25,6 +25,7 @@
       <br/>
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge">
       <img alt="Static Badge" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge">
