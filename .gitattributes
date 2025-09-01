@@ -1,0 +1,3 @@
+*.vim linguist-vendored=true
+*.vimrc linguist-vendored=true
+dotfiles/* linguist-vendored=true
