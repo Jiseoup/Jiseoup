@@ -46,12 +46,12 @@
   <br/>
 
   <!-- 2. Contributions -->
-  <div>
+  <!-- <div>
     <h1>🎯 Contributions</h1>
     <img src="./profile-3d-contrib/profile-season-animate.svg" />
   </div>
 
-  <br/>
+  <br/> -->
 
   <!-- 3. My Farm -->
   <div>
