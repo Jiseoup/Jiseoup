@@ -25,6 +25,7 @@
     <img alt="RDS" src="https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white&style=for-the-badge">
     <img alt="DocumentDB" src="https://img.shields.io/badge/DocumentDB-C925D1?logo=amazondocumentdb&logoColor=white&style=for-the-badge">
     <img alt="S3" src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge">
+    <img alt="CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-6BCA6B?logo=amazoncodedeploy&logoColor=white&style=for-the-badge">
     <br/>
     <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge">
     <img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-499848?logo=gunicorn&logoColor=white&style=for-the-badge">
