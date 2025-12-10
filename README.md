@@ -16,6 +16,7 @@
     <br />
     <!-- Databases -->
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge">
     <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge">
     <br/>
