@@ -1,4 +1,14 @@
 <div align="center">
+  <!-- <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp&theme=light" height="40"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=django,spring,react&theme=light" height="40"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&theme=light" height="40"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,nginx,githubactions,linux,ubuntu&theme=light" height="40"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,notion&theme=light" height="40"/> -->
+
   <!-- 1. Tech Stacks -->
   <div>
     <h1>🚀 Tech Stacks</h1>
