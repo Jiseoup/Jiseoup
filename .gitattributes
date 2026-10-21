@@ -1,0 +1,2 @@
+# Keep dotfiles out of GitHub language stats so this repo has no primary language
+vim/** linguist-detectable=false
